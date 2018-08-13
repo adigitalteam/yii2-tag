@@ -15,7 +15,7 @@ use yii\db\ActiveRecord;
 
 /**
  * Class TagBehavior
- * @package common\modules\tag\behaviors
+ * @package adigitalteam\tag\behaviors
  * @property $owner ActiveRecord
  * @property $attribute string
  * @property $relation_name string

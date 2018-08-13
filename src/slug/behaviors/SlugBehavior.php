@@ -16,7 +16,7 @@ use adigitalteam\tag\slug\helper\TransliteratorHelper;
 
 /**
  * Class SlugBehavior
- * @package common\modules\tag\slug\behaviors
+ * @package adigitalteam\tag\slug\behaviors
  * @property $in_attribute string
  * @property  $out_attribute string
  * @property $translit bool

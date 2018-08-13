@@ -16,7 +16,7 @@ use yii\db\ActiveRecord;
 
 /**
  * Class Tag
- * @package common\modules\tag\models
+ * @package adigitalteam\tag\models
  * @property $id integer
  * @property $name string
  * @property $slug string

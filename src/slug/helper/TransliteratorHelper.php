@@ -13,7 +13,7 @@ use Yii;
 
 /**
  * Class TransliteratorHelper
- * @package common\modules\tag\slug\helper
+ * @package adigitalteam\tag\slug\helper
  */
 class TransliteratorHelper
 {

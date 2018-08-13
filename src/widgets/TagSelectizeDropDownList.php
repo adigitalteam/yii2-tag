@@ -14,7 +14,7 @@ use yii\helpers\Html;
 
 /**
  * Class TagSelectizeDropDownList
- * @package common\modules\tag\widgets
+ * @package adigitalteam\tag\widgets
  * @property $items array
  */
 class TagSelectizeDropDownList extends InputWidget
