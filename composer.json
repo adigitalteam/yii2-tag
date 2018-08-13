@@ -1,0 +1,26 @@
+{
+  "name": "adigitalteam/yii2-tag",
+  "description": "Tag of yii2",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension","tag"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "adigitalteam",
+      "email": "adigital.team@inbox.ru"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+    "yiisoft/yii2-bootstrap": "~2.0.0",
+    "bower-asset/selectize": "~0.12.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "adigitalteam\\tag\\": "src"
+    }
+  },
+  "support": {
+    "source": "https://github.com/adigitalteam/yii2-tag"
+  }
+}
