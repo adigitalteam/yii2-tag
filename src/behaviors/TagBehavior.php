@@ -6,7 +6,6 @@
  * @team Adigitalteam <https://github.com/adigitalteam>
  * @package Tag of Yii2
  */
-
 namespace adigitalteam\tag\behaviors;
 
 use adigitalteam\tag\models\Tag;
